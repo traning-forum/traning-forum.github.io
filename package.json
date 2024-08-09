@@ -13,8 +13,12 @@
   "keywords": [],
   "author": "DS",
   "license": "ISC",
-  "bugs":{
+  "bugs": {
     "url": "https://github.com/traning-forum/traning-forum.github.io/issues"
   },
-  "homepage": "https://github.com/traning-forum/traning-forum.github.io#readme"
+  "homepage": "https://github.com/traning-forum/traning-forum.github.io#readme",
+  "dependencies": {
+    "lit-html": "^3.2.0",
+    "page": "^1.11.6"
+  }
 }
