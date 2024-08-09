@@ -3,9 +3,11 @@
                 "browser": true,
                 "es2021": true
             },
+            "globals":{},
             "pareserOptions":{
-                "ecmaVersion": 13,
-                "sourceType": "module"
+                "ecmaVersion": 12,
+                "sourceType": "module",
+                "ecmaFeatures":{}
             },
             "rules": {
                 "semi": "error",
@@ -14,6 +16,10 @@
                     "warn",
                     "single"
                 ],
-                "no-undef": "error"
+                "no-undef": "error",
+                "indent" :[
+                    "error",
+                    4
+                ]
             }
 }
