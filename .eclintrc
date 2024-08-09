@@ -1,0 +1,19 @@
+{
+    "env": {
+                "browser": true,
+                "es2021": true
+            },
+            "pareserOptions":{
+                "ecmaVersion": 13,
+                "sourceType": "module"
+            },
+            "rules": {
+                "semi": "error",
+                "curly": "error",
+                "quotes": [
+                    "warn",
+                    "single"
+                ],
+                "no-undef": "error"
+            }
+}
