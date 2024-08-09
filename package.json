@@ -1,0 +1,20 @@
+{
+  "name": "full-app-workshop",
+  "version": "1.0.0",
+  "description": "Simple traning aplication",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/traning-forum/traning-forum.github.io.git"
+  },
+  "keywords": [],
+  "author": "DS",
+  "license": "ISC",
+  "bugs":{
+    "url": "https://github.com/traning-forum/traning-forum.github.io/issues"
+  },
+  "homepage": "https://github.com/traning-forum/traning-forum.github.io#readme"
+}
